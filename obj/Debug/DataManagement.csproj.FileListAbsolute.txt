@@ -1,0 +1,7 @@
+C:\Desenvolvimento\Outros\DataManagement\DataManagement\obj\Debug\DataManagement.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Outros\DataManagement\DataManagement\obj\Debug\DataManagement.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Outros\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Desenvolvimento\Outros\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\Desenvolvimento\Outros\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+C:\Desenvolvimento\Outros\DataManagement\DataManagement\obj\Debug\DataManagement.exe
+C:\Desenvolvimento\Outros\DataManagement\DataManagement\obj\Debug\DataManagement.pdb
